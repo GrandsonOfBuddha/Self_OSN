@@ -1,0 +1,5 @@
+clear
+sleep 10 &
+proclore
+proclore 1
+/proc
